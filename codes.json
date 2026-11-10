@@ -1,7 +1,0 @@
-{
-  "codes": [
-    {"code": "LAUNCH2026", "type": "gold", "amount": 500},
-    {"code": "BLADESTSILVER", "type": "item", "item_path": "res://DataBase/EquipmentDataStats/Weapons/Melee/Swords/SilverBlade.tres", "amount": 1},
-    {"code": "FIREARROW", "type": "item", "item_path": "res://DataBase/InventoryItems/Ammos/Bows/FlameArrow.tres", "amount": 25}
-  ]
-}
